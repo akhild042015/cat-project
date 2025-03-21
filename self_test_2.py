@@ -1,6 +1,7 @@
 """This is a "self" example with cats. To run this, you will only need one thing:
  Python.
- If you have that, then you are ready to run this code. This code will teach you how to use classes, how to define, and use self the appropriate way."""
+ If you have that, then you are ready to run this code. This code will teach you how to use classes, how to define, and use self the appropriate way.
+ """
 
 
 
